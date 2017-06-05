@@ -1,0 +1,24 @@
+{
+  "name": "17-spring-test2-brett-goers",
+  "version": "1.0.0",
+  "description": "test 2",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcg5039/17-spring-test2-brett-goers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcg5039/17-spring-test2-brett-goers/issues"
+  },
+  "homepage": "https://github.com/bcg5039/17-spring-test2-brett-goers#readme"
+}
